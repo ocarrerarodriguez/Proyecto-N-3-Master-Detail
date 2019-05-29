@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547141722114",
+    "firebase_url": "https://worpresconkotlin.firebaseio.com",
+    "project_id": "worpresconkotlin",
+    "storage_bucket": "worpresconkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547141722114:android:ead56c077b61fded",
+        "android_client_info": {
+          "package_name": "masterdetail.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547141722114-7b28r8mnftorfoi6d8cvhl9cig383c5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnYaXkL3BQpHrAdEpCPofV2eqSPsKgSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547141722114-7b28r8mnftorfoi6d8cvhl9cig383c5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
